@@ -22,4 +22,4 @@ I'm a passionate data enthusiast, specializing in data analysis, visualization, 
 
 ---
 
-✨ _This is a special repository because its `README.md` appears on my GitHub profile._
+✨
